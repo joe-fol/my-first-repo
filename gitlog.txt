@@ -1,0 +1,17 @@
+commit 181bfea5442144ad909d71a021f7dc5861a9fbef
+Author: joe-fol <joefolkard@protonmail.com>
+Date:   Mon Aug 24 20:51:22 2020 +0100
+
+    added gitignore2
+
+commit b2cf5c7b0519437b9f4149641b95e597933e55ed
+Author: joe-fol <joefolkard@protonmail.com>
+Date:   Mon Aug 24 14:15:27 2020 +0100
+
+    added two new files
+
+commit 0fa88209f3d4a6150a96cb91afa3284c5c0766fc
+Author: joe-fol <joefolkard@protonmail.com>
+Date:   Sun Aug 23 20:49:40 2020 +0100
+
+    added readme.txt
